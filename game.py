@@ -2,15 +2,17 @@ from random import randint
 from gameFunctions import winlose, gameVars, compare
 
 while gameVars.player is False:
-	print("====================================\n")
+	print(gameVars.line)
 	print("Computer Lives:", gameVars.computer_lives, "/", gameVars.total_lives)
 	print("Player Lives:", gameVars.player_lives, "/", gameVars.total_lives)
-	print("====================================\n")
-	print("Choose your weapon!\n")
-	player=input("choose rock, paper, or scissors: \n")
+	print(gameVars.line)
+	print("Choose your weapon!")
+	print(gameVars.line)
+	player=input("Choose rock, paper, or scissors: \n")
+	print(gameVars.line)
 
 	#start doing some logic and condition checking
-	print("computer: ", gameVars.computer, "player: ", gameVars.player)
+	print("Computer chose: ", gameVars.computer, "--------- YOU chose: ", gameVars.player)
 	
 	# check the function
 

@@ -20,6 +20,7 @@ def winorlose(status):
 
 	elif choice == "N" or choice == "n":
 		print("You chose quit. Better luck next time")
+		print(gameVars.line)
 		exit()
 	else:
 		print("Make a valid choice. Yes or no!")
