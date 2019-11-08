@@ -14,3 +14,6 @@ computer=choices[randint(0,2)]
 
 # setup a game loop here so we dont have to keep restarting
 player = False
+
+#decrotive line
+line = "============================================"
