@@ -15,4 +15,4 @@ The rules are the same as the classic
 
 The computer chooses first; just follow the prompts!
 
-Built with Python3.
+Built with Python3
