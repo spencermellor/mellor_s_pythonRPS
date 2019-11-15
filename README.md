@@ -4,7 +4,7 @@
 
 Prerequisites: all you need is [Python 3](https://www.python.org/downloads/) to play
 
-Clone the project, navigate to the correct directory - cd directory name - and run the game.py file in a Python3 Terminal window for Mac / Linux.
+Clone the project, navigate to the correct directory - `cd directory name` - and run the `game.py` file in a Python3 Terminal window for Mac / Linux.
 
 The rules are the same as the classic
 1. Paper covers Rock
